@@ -1,9 +1,9 @@
 # sakuhinnmei-monotori
 
-![タイトル画面](images/huyuyasumi.png)
-![ゲーム画面](images/huyuyasumi2.png)
-<a href="./Monotori/" target="_blank">
 <img src='./images/huyuyasumi.png'
+height='100px'alt='タイトル画面'>
+<a href="./Monotori/" target="_blank">
+<img src='./images/huyuyasumi2.png'
 height='100px'alt='タイトル画面'><br/>
 ゲームで遊ぶ
 </a>
